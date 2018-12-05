@@ -1,0 +1,29 @@
+Earth Engine scripts to identify current (2016) Eucalyptus plantations
+	and extract time series of vegetation indices (1984-2016) for each
+	plantation stand and its adjacent native vegetation
+These scripts should be available to all Earth Engine users with the links.
+
+Create and export training data for a land cover classfier:
+https://code.earthengine.google.com/db50cc37b45b7f797438ffd853fb259f
+
+Classify land cover in a Landsat scene and test the accuracy:
+https://code.earthengine.google.com/05eec64f8a3f64bbbf8da1d770af5206
+
+Export classified Eucalyptus stands as a KML file:
+https://code.earthengine.google.com/404877d389d80edfd5536ecfdfbc007d
+
+Export classified native vegetation patches around stands:
+https://code.earthengine.google.com/9beeca40c3ca76bce4ae6d980c47a5ef
+
+Export a time series of NIRv observations for each stand and patch:
+https://code.earthengine.google.com/b03bf7cf4548afe4c6b56f067e793b6e
+	
+Add properties (e.g. area, elevation) to a stand or patch:
+https://code.earthengine.google.com/5442e00faa50a8a4ea34ecb9a59e0fee
+
+Add meterological data to an area containing stands and patches:
+https://code.earthengine.google.com/83823dc25d1d3d17f979d6de0f491536
+
+Please contact Devin McMahon (devin.e.mcmahon@gmail.com) with any questions, 
+	or to seek permission to access company-delineated stand boundaries.
+
