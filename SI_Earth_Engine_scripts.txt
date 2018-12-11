@@ -24,6 +24,9 @@ https://code.earthengine.google.com/5442e00faa50a8a4ea34ecb9a59e0fee
 Add meterological data to an area containing stands and patches:
 https://code.earthengine.google.com/83823dc25d1d3d17f979d6de0f491536
 
+Fusion table of all the training polygons:
+https://www.google.com/fusiontables/DataSource?docid=1jhdlA4KZKQ3sAo0PsKNU0QyQS-AtcD53mTiM5UCl
+
 Please contact Devin McMahon (devin.e.mcmahon@gmail.com) with any questions, 
 	or to seek permission to access company-delineated stand boundaries.
 
